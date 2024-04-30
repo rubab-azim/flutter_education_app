@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lottie/lottie.dart';
 import 'package:flutter_education_app/core/res/media_res.dart';
+import 'package:lottie/lottie.dart';
 
 class PageUnderConstruction extends StatelessWidget {
   const PageUnderConstruction({super.key});
