@@ -4,7 +4,7 @@ import 'package:flutter_education_app/src/on_boarding/domain/usecases/cache_firs
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
-import '../../onboarding_repo.mock.dart';
+import '../onboarding_repo.mock.dart';
 
 void main() {
   late MockOnboardingRepo repo;
