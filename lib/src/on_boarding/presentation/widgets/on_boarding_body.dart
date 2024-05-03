@@ -26,9 +26,10 @@ class OnBoardingBody extends StatelessWidget {
                 content.title,
                 textAlign: TextAlign.center,
                 style: const TextStyle(
-                    fontFamily: Fonts.aeonik,
-                    fontSize: 40,
-                    fontWeight: FontWeight.bold),
+                  fontFamily: Fonts.aeonik,
+                  fontSize: 40,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
               SizedBox(
                 height: context.height * 0.02,
@@ -37,9 +38,10 @@ class OnBoardingBody extends StatelessWidget {
                 content.description,
                 textAlign: TextAlign.center,
                 style: const TextStyle(
-                    fontFamily: Fonts.aeonik,
-                    fontSize: 14,
-                    fontWeight: FontWeight.bold),
+                  fontFamily: Fonts.aeonik,
+                  fontSize: 14,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
               SizedBox(
                 height: context.height * 0.05,
